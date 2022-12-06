@@ -33,6 +33,7 @@ public:: true
 		- изучаю: python
 	- Сервер
 		- ubuntu/debian, nginx, docker, ufw, pm2
+		- s3 для бекапов
 		- хотел бы изучить: kubernetes
 	- Базы данных
 		- mysql, redis, postgres, mongo
