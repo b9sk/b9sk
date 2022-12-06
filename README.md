@@ -26,15 +26,26 @@ public:: true
 				- Частичный деплой через ветку stage
 - Стек (Накопившийся опыт с 2016-08)
 	- Языки программирования и скрипты
-		- bash, php, js, es, ts
+		- bash
+		- php
+		- js, es, ts
+			- "Промисы", fetch/xhr
+		- изучаю: python
 	- Сервер
 		- ubuntu/debian, nginx, docker, ufw, pm2
+		- хотел бы изучить: kubernetes
 	- Базы данных
 		- mysql, redis, postgres, mongo
+		- ORM
+			- Doctrine
+			- Prisma2
 	- Бекенд
 		- drupal 7|8, symfony 4|5, laravel 7|8, nextjs 9+, wordpress 5.8+
 		- REST API
+			- Wordpress
+			- API platform
 		- GraphQL
+			- Hasura
 	- Фронтэнд
 		- SCSS, Bootstrap 4|5, webpack|gulp
 		- react (как часть nextjs) + typescript, react context
