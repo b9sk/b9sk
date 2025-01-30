@@ -23,7 +23,7 @@ Backend-разработчик (PHP, js/ts) с опытом в СМИ, e-commerc
 - аггрегаторы продуктовых каталогов, SERM, PBN
 - ecomm: CRM, платежи, доставка (КЛАДР и тп)
 - Новости: Sport news, Sport API, интеграции с букмекерскими конторами
-- payment gateway system: знакомство с архитектурой, модулями (процессинг 80%), кодом, БД, админ-панель и тп
+- payment gateway system: знакомство с архитектурой, ( процессинг, админка )
 
 ### Технический стек
 - PHP (6+ лет): Laravel, Symfony, Drupal 6 , Drupal 7, Wordpress, Twig, phpunit.
