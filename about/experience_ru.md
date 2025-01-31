@@ -1,14 +1,15 @@
 Backend-разработчик (PHP, js/ts) с опытом в СМИ, e-commerce и финтехе (немножко). Последние 3 года сосредоточен на backend разработке и поддержке, интеграциях, оптимизации производительности и поддержке инфраструктуры.
 
-### Какие задачи выполнял в целом
-- Разработка серверной части и окружения (docker + монолит PHP + сервисы ts/python)
-- Оптимизация, поддержка серверов (до 300 000 хостов в сутки на wp)
+### Какие задачи выполнял в основном
+- Разработка, поддержка, тестирование, деплой (docker + монолит PHP + сервисы ts/python)
+- Оптимизация, поддержка, логирование, мониторинг серверов и сервисов (до 300 000 IP в сутки на wp + nginx cache)
 - Создание локальной среды для разработки, отдельные конфиги для local, dev, test, prod
 - Code Review, merge conflict resolve
 - Миграция данных (все сущности из CMS в фреймворк)
+- Тестирование Unit, Feature
+- Автоматизация (деплой, бекап, задачи по расписанию, веб-хуки, мониторинг)
 - Reserse/forward engineering (PlantUML, draw.io, gpt, готовые примеры)
 - Документация, wiki, getting started
-- Автоматизация (деплой, бекап, задачи по расписанию, веб-хуки, мониторинг)
 
 ### Административные задачи
 - Планирование задач, оценка времени, уточнение требований
@@ -23,14 +24,14 @@ Backend-разработчик (PHP, js/ts) с опытом в СМИ, e-commerc
 - аггрегаторы продуктовых каталогов, SERM, PBN
 - ecomm: CRM, платежи, доставка (КЛАДР и тп)
 - Новости: Sport news, Sport API, интеграции с букмекерскими конторами
-- payment gateway system: знакомство с архитектурой, модулями (процессинг 80%), кодом, БД, админ-панель и тп
+- payment gateway system: знакомство с архитектурой, ( процессинг, админка )
 
 ### Технический стек
 - PHP (6+ лет): Laravel, Symfony, Drupal 6 , Drupal 7, Wordpress, Twig, phpunit.
 - JS/Fronend (3 года): typescript, ecma script, nodejs, expressjs, nextjs, graphql client, react, react-query, DOM API, Promise API, Vite, Webpack, Bootstrap 4, puppeteer, jest.
 - Python (~1 год): pandas, python-telegram, playwright/selenium.
 - Databases: mysql, postgresql, mongodb, redis, doctrine orm, prisma orm
-- Devops: ci/cd, git, docker, pm2, linux, bash script, nginx (fpm, proxy), apache, cloudflare, aws, selectel
+- Devops: ci/cd, git, gitlab, docker, pm2, linux, bash script, nginx (fpm, proxy), apache, cloudflare, aws, selectel
 
 ### О себе
 - Английский: Intermediate, fluent in English, готов работать в англоязычной команде.
