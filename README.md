@@ -5,7 +5,7 @@ WEB-разработчик с уклоном в бекенд. С PHP, HTML, CSS,
 Опыт 9 лет, коммерческий 6.
 
 **Профессиональный опыт**
-- Разработка и поддержка монолита (PHP5/7/8, Laravel, Symfony, Drupal) + DB (pgsql, mysql, nocode) + API (REST, Soap, Graphql, etc) + Docker
+- Разработка и поддержка монолита (PHP5/7/8, Laravel, Symfony, Drupal) + DB (pgsql, mysql, nosql) + API (REST, Soap, Graphql, etc) + Docker
 - Проектирование и оптимизация БД
 - Миграции с легаси на MVC
 - Интеграции с API (PHP, Python, ts-node, nocode)
