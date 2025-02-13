@@ -21,3 +21,6 @@
 - Working both as individual and in a team (task management, discussions, requirement gathering, planning, documentation, assisting colleagues with technical issues).
 - Studying software design and its architecture in-depth, ETL, and data visualization.
 - English: fluent in a conversation (typed and spoken).
+
+**Contacts**
+- [Telegram](https://t.me/html666)
