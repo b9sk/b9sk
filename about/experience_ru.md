@@ -10,12 +10,12 @@
 ---
 
 ### **Технические навыки**  
-✅ Backend: PHP (Laravel, Symfony, Slim), REST API, GraphQL, OpenAPI, SOAP  
+✅ Backend: PHP (Laravel, Symfony, Slim), Nodejs (TypeScript, Express.js), REST API, GraphQL, OpenAPI, SOAP  
 ✅ Базы данных: PostgreSQL, MySQL, NoSQL  
 ✅ DevOps: Docker, CI/CD, Nginx, Linux-администрирование  
 ✅ Работа с легаси-кодом: PHP5, Drupal 7, WordPress, CodeIgniter, Opencart  
 ✅ Парсинг и автоматизация: Puppeteer, Selenium  
-✅ Frontend: JavaScript (Vanilla, jQuery, Alpine.js), React, Next.js, TypeScript  
+✅ Frontend: JavaScript (Vanilla, jQuery, Alpine.js), React, react-query
 ✅ Тестирование: Unit, Feature-тесты  
 ✅ Оптимизация: производительность, аудит безопасности  
 
