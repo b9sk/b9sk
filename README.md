@@ -1,5 +1,3 @@
-Hi! I'm a web dev.
-
-Looking for my working experience?
-- [in English](./about/experience_en.md)
-- [in Russian](./about/experience_ru.md)
+Latest activities:
+- AI agents, chatbot integrations, workflow automation
+- Networking & tunneling
